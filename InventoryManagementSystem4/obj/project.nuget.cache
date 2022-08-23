@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e11dkdikDyJYwPHYoSLFf05+wLEWIfonHHGy7EpDPVT4Y3mwRuPPXosVOKqLVw3lOk3A6V+rvQZSWLcAz07+5w==",
+  "dgSpecHash": "KQlKtsEHBz6558CBpQNQIUaesK99ru97Lmxym63zG9g7Hzoxe2HMRQ2PmNUJczSBoHkedqddPBid9LGJxa6zBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samet\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem4\\InventoryManagementSystem4.csproj",
+  "projectFilePath": "C:\\Users\\samet\\source\\repos\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem4\\InventoryManagementSystem4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samet\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\samet\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.8\\microsoft.aspnetcore.cryptography.internal.6.0.8.nupkg.sha512",
