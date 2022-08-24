@@ -9,8 +9,8 @@ namespace InventoryManagementSystem4.Models
         public int Id { get; set; }
         [Required]
         public string Name { get; set; }
-        [DisplayName("Display Order")]
-        [Range(1,100,ErrorMessage = "Display Order must be between 1 and 100 only !!")]
+        [DisplayName("Quantity")]
+        [Range(1,100,ErrorMessage = "Quantity must be between 1 and 100 only !!")]
         public int Quantity { get; set; }
         public string Type { get; set; }
         public double Price { get; set; }

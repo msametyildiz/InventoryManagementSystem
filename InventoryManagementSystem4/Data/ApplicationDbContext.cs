@@ -11,5 +11,6 @@ namespace InventoryManagementSystem4.Data
         {
         }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<CategoryType> CategoryType { get; set; }
     }
 }

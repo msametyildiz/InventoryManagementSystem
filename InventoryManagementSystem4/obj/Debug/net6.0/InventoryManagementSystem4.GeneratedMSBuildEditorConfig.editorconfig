@@ -19,6 +19,22 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/samet/source/repos/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem4/Views/CategoryType/CreateType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlUeXBlXENyZWF0ZVR5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samet/source/repos/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem4/Views/CategoryType/DeleteType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlUeXBlXERlbGV0ZVR5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samet/source/repos/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem4/Views/CategoryType/EditType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlUeXBlXEVkaXRUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samet/source/repos/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem4/Views/CategoryType/IndexType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlUeXBlXEluZGV4VHlwZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/samet/source/repos/InventoryManagementSystem/InventoryManagementSystem/InventoryManagementSystem4/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
